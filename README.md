@@ -23,6 +23,6 @@ Requirements
 How to use it
 ---
 
-You can run the code in [lane_detection.ipynb](.lane_detection.ipynb) step by step.
+You can run the code in [lane_detection.ipynb](./lane_detection.ipynb) step by step.
 
-For more information, you may read [writeup.md](.writup.md)
+For more information, you may read [writeup.md](./writeup.md)
